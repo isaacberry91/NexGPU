@@ -1,1 +1,0 @@
-export default function Register() { return <div style={{padding: '2rem'}}><h1>Register</h1><input placeholder='Email' /><input placeholder='Password' type='password' /><button>Register</button></div> }

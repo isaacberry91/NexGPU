@@ -1,1 +1,0 @@
-export default function Checkout() { return <div style={{padding: '2rem'}}><h1>Checkout</h1><p>Secure payment page.</p></div> }
