@@ -1,1 +1,1 @@
-export default function handler(req, res) { res.status(200).json({ message: 'Ready to charge!' }) }
+export default function handler(req, res) { res.status(200).json({ message: 'Stripe payment logic coming soon.' }); }
